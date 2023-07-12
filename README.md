@@ -1,7 +1,8 @@
 # work-day-scheduler
 
 ## Description
-In this project i refactored code so that when an imput is entered into the planner it saves the information into the local storage.
+In this project i refactored code so that when an imput is entered into the planner it saves the information into the local storage. There are time blocks for each hour of the standard work day (9-5), the time blocks are color coded based off the past,present, and future relative to the current time. the gray represents the past time, the red represents the current time, and the green represents the future time.
+
 ## Installation
 N/A
 
